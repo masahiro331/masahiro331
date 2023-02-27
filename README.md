@@ -1,4 +1,4 @@
-## Progress my project
+## ongoing project
 
 ### go vm project 
 
@@ -7,7 +7,7 @@ This project parse all virtual machines format and filesystem's.
 https://github.com/users/masahiro331/projects/1 
 
 
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **masahiro331/masahiro331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
